@@ -1,0 +1,14 @@
+{
+  "name": "spacedawgz",
+  "version": "1.0.0",
+  "description": "astronaut program for doggies",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha ."
+  },
+  "author": "Jeanine Schoessler",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.4"
+  }
+}
